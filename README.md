@@ -1,0 +1,1 @@
+# Deep-learning-project-Amharic-Scene-Text-Detection-and-Recognition
